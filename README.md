@@ -1,1 +1,1 @@
-# MyOtherProject
+This is another project :-)
